@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Apoiar o ZashCRT via PIX
+    url: https://nubank.com.br/cobrar/1gyv7/6a0dd90d-f9cb-4792-bf6d-add46190ccdb
+    about: Contribua com qualquer valor para apoiar o desenvolvimento.
+  - name: Apoiar o ZashCRT no Ko-fi
+    url: https://ko-fi.com/leoberbert
+    about: Apoie o projeto pela plataforma Ko-fi.

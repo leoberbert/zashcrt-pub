@@ -1,0 +1,12 @@
+dist/
+build/
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.log
+*.tmp
+*.user
+.DS_Store
+Thumbs.db
