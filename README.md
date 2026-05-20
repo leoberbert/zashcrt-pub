@@ -8,7 +8,7 @@ O desenvolvimento principal do ZashCRT é mantido em repositório privado enquan
 
 ## Links
 
-- Site: `https://zashcrt.leo4linux.pp.ua`
+- Site: `https://www.zashcrt.com`
 - GitHub: [github.com/leoberbert/zashcrt](https://github.com/leoberbert/zashcrt-pub)
 - Issues: [github.com/leoberbert/zashcrt/issues](https://github.com/leoberbert/zashcrt-pub/issues)
 - Discussões e solicitações: use a aba Issues
