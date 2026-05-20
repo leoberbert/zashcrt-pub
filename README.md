@@ -43,23 +43,6 @@ O ZashCRT é mantido por Leonardo Berbert. Se o projeto te ajudar, considere apo
 - PIX: https://nubank.com.br/cobrar/1gyv7/6a0dd90d-f9cb-4792-bf6d-add46190ccdb
 - Ko-fi: https://ko-fi.com/leoberbert
 
-## Site
-
-O site estático fica em [`docs/`](docs/).
-
-Para testar localmente:
-
-```powershell
-cd docs
-python -m http.server 8080
-```
-
-Depois acesse:
-
-```text
-http://localhost:8080
-```
-
 ## Licença e créditos
 
 ZashCRT deriva do projeto [quardCRT](https://github.com/QQxiaoming/quardCRT), preservando os créditos do desenvolvedor original e da base GPL-3.0.
